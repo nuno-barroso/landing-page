@@ -141,6 +141,11 @@ h2 {
 .action-main-text {
     font-size: 24px;
     font-weight: 900;
+    margin: 0;
+}
+
+.action-subtext {
+    margin: 0;
 }
 
 .action button {
@@ -149,6 +154,7 @@ h2 {
     border: 2px solid white;
     border-radius: 8px;
     padding: 12px 24px;
+    font-size: 18px;
 }
 
 .footer {
